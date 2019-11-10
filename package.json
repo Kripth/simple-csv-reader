@@ -1,0 +1,38 @@
+{
+	"name": "simple-csv-reader",
+	"version": "1.0.0",
+	"description": "Lightweight CSV reader",
+	"main": "index.js",
+	"scripts": {
+		"dist": "gulp dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Kripth/simple-csv-reader.git"
+	},
+	"keywords": [
+		"csv",
+		"read",
+		"reader",
+		"deserialize",
+		"deserializer",
+		"lightweight"
+	],
+	"author": "Mark White",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Kripth/simple-csv-reader/issues"
+	},
+	"homepage": "https://github.com/Kripth/simple-csv-reader",
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-preset-env": "^1.7.0",
+		"gulp": "^4.0.2",
+		"gulp-append-prepend": "^1.0.8",
+		"gulp-babel": "^7.0.1",
+		"gulp-rename": "^1.4.0",
+		"gulp-replace": "^1.0.0",
+		"gulp-sourcemaps": "^2.6.5",
+		"gulp-terser": "^1.2.0"
+	}
+}
