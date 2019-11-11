@@ -1,7 +1,7 @@
 simple-csv-reader
 =================
 
-![npm](https://img.shields.io/npm/v/simple-csv-reader)
+[![npm](https://img.shields.io/npm/v/simple-csv-reader)](https://npmjs.org/package/simple-csv-reader)
 
 Converts a CSV string into a JavaScript array according to the [RFC 4180 standard](https://tools.ietf.org/html/rfc4180).
 
